@@ -10,6 +10,6 @@ const addHi = function(){
       let p = document.createElement('p')
       console.log(p);
       body[0].appendChild(p);
-      p.innerText = "Hi there!";
+      p.innerHTML = "This is a New messege!s"
 }
 btn.addEventListener('click' , addHi)
