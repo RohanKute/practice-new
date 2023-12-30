@@ -12,4 +12,6 @@ const addHi = function(){
       body[0].appendChild(p);
       p.innerHTML = "This is a New messge"
 }
-btn.addEventListener('click' , addHi)
+btn.addEventListener('click' , addHi);
+
+console.log("Hiii new changes")
