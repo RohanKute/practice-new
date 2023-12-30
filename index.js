@@ -5,8 +5,6 @@ console.log(body);
 let btn = document.querySelector("#btn");
 
 let head = document.querySelector("h1");
-
-
 console.log(btn);
 
 head.style.color = 'blue';
