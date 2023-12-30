@@ -17,3 +17,5 @@ const addHi = function(){
 btn.addEventListener('click' , addHi);
 
 console.log("Hiii new changes")
+console.log("changes")
+console.log("hii changes")
