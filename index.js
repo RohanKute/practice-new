@@ -5,7 +5,8 @@ console.log(body);
 let btn = document.querySelector("#btn");
 console.log(btn);
 
-
+const h2 = document.querySelector('h2');
+h2.style.color = 'red';
 const addHi = function(){
       let p = document.createElement('p')
       console.log(p);
